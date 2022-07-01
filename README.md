@@ -30,4 +30,4 @@ http_proxy=http://127.0.0.1:4444 flatpak --user install org.i2pgit.idk.i2p.plugi
 flatpak run org.i2pgit.idk.i2p.plugins.tor-manager
 ```
 
-[GPG Keys: key.gpg](https://eyedeekay.github.io/flatpak.repo.i2p.plugins.tor-manager/key.gpg)
+- **[GPG Keys: key.gpg](https://eyedeekay.github.io/flatpak.repo.i2p.plugins.tor-manager/key.gpg)**
